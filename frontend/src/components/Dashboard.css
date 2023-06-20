@@ -1,0 +1,20 @@
+.container-grid{
+    background-color:black !important;
+    margin-top:18px !important;
+}
+.title{
+    text-decoration:none !important;
+}
+.sub-title{
+    display: flex;
+    justify-content: space-between;
+}
+.view-count{
+    display:flex;
+    align-items: center;
+    gap: 4px;
+}
+.card{
+    color:white !important;
+    background-color: #181818 !important;
+}
